@@ -19,10 +19,10 @@ This simple script organizes your list saved in a text document, generating a ne
 ### ⚙️ Features:
 > Finished features:
 1. 🟢 Convert `.txt` file to Python list ⚙️✔️
-2. 🟢 Organize Python list in ascending order and remove duplicate items ⚙️✔️
-3. 🟢 Save organized list in a new `.txt` file ⚙️✔️
-4. 🟢 Config file `.json` ⚙️✔️
-5. 🟢 Organize Python list in descending order ⚙️✔️
+2. 🟢 Organize Python list in ascending order and descending order ⚙️✔️
+3. 🟢 Remove duplicate items ⚙️✔️
+4. 🟢 Save organized list in a new `.txt` file ⚙️✔️
+5. 🟢 Config file `.json` ⚙️✔️
 > Under development features:
 6. 🟡 Convert "others files type" to Python list ⚙️🔨
 7. 🟡 Save organized list in "others files type" ⚙️🔨
