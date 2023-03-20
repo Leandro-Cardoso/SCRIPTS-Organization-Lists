@@ -30,8 +30,9 @@ listed_items = txt_to_list(file_path)
 
 # ORGANIZE LIST:
 is_sorted_list = configs['is_sorted_list']
+is_reverse = configs['is_reverse']
 is_non_duplicate_list = configs['is_non_duplicate_list']
-list_organizer = ListOrganizer(listed_items = listed_items, is_sorted_list = is_sorted_list, is_non_duplicate_list = is_non_duplicate_list)
+list_organizer = ListOrganizer(listed_items = listed_items, is_sorted_list = is_sorted_list, is_reverse = is_reverse, is_non_duplicate_list = is_non_duplicate_list)
 organized_list = list_organizer.organized_list
 
 # SAVE LIST:

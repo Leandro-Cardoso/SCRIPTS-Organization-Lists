@@ -2,5 +2,6 @@
     "file_path" : "./lists_organizer/teste.txt",
     "save_path" : "./lists_organizer/organized_list.txt",
     "is_sorted_list" : true,
+    "is_reverse" : false,
     "is_non_duplicate_list" : true
 }
